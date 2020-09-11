@@ -1,0 +1,15 @@
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\bin\Debug\ProjectX.exe.config
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\bin\Debug\ProjectX.exe
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\bin\Debug\ProjectX.pdb
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.csprojResolveAssemblyReference.cache
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.Properties.Resources.resources
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.csproj.GenerateResource.Cache
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.exe
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.pdb
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.SignUp.resources
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.Startup.resources
+c:\users\shs\documents\visual studio 2012\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.adminLogin.resources
+C:\Users\SHS\documents\visual studio 2012\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.userLogin.resources
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\User and Admin Login SignUp with Database - C#\ProjectX\bin\Debug\ProjectX.exe.config
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\User and Admin Login SignUp with Database - C#\ProjectX\obj\Debug\ProjectX.exe
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\User and Admin Login SignUp with Database - C#\ProjectX\obj\Debug\ProjectX.pdb
